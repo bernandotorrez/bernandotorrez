@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernand Dayamuntari Hermawan</h1>
-<h3 align="center">A passionate Software Engineer (Full Stack Web and Backend) and SDET in Indonesia</h3>
+<h3 align="center">A passionate Software Engineer (Full Stack Web and Backend) and Quality Engineer in Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernandotorrez&label=Profile%20views&color=0e75b6&style=flat" alt="bernandotorrez" /> </p>
 
