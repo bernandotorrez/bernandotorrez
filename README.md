@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web, Backend, Automation Test**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bernand-d-h/](https://www.linkedin.com/in/bernand-d-h/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bernand-d-h/details/projects/](https://www.linkedin.com/in/bernand-d-h/details/projects/)
 
 - 📝 I regularly write articles on [https://berdikari.tech/](https://berdikari.tech/)
 
