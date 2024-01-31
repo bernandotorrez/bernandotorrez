@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernand Dayamuntari Hermawan</h1>
-<h3 align="center">Passionate and Seasoned Software Engineer and Quality Assurance Engineer with a strong focus on full-stack development both front-end, back-
+<h3 align="justify">Passionate and Seasoned Software Engineer and Quality Assurance Engineer with a strong focus on full-stack development both front-end, back-
 end, manual testing and automation testing. Proficient in PHP and Node JS and well-versed in aspects of web technologies. Collaborative team
 player dedicated to delivering efficient and scalable web application.</h3>
 
