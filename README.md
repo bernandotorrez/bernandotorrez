@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernand Dayamuntari Hermawan</h1>
-<h3 align="center">A passionate Software Engineer (Full Stack Web and Backend) and Quality Engineer in Indonesia</h3>
+<h3 align="center">Passionate and Seasoned Software Engineer and Quality Assurance Engineer with a strong focus on full-stack development both front-end, back-
+end, manual testing and automation testing. Proficient in PHP and Node JS and well-versed in aspects of web technologies. Collaborative team
+player dedicated to delivering efficient and scalable web application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernandotorrez&label=Profile%20views&color=0e75b6&style=flat" alt="bernandotorrez" /> </p>
 
