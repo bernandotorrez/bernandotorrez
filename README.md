@@ -7,7 +7,7 @@ player dedicated to delivering efficient and scalable web application.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernandotorrez" alt="bernandotorrez" /></a> </p>
 
-- 🔭 I’m currently working on **Harian Kompas**
+- 🔭 I’m currently working on **Eurokars Group Indonesia**
 
 - 🌱 I’m currently learning **Full Stack Web, Backend, Automation Test**
 
